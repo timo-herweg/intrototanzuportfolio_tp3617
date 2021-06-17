@@ -1,6 +1,6 @@
 ---
-title: "ModernApps Ninja New Course Template"
-linkTitle: "New Course Template"
+title: "Introduction to the VMware Tanzu Portfolio"
+linkTitle: "Intro to the Tanzu Portfolio"
 weight: 20
 menu:
   main:
