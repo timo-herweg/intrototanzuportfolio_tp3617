@@ -1,7 +1,7 @@
 ---
 title: "Course Completion and Badge"
 date: 2020-10-12T18:34:25-07:00
-weight: 1035
+weight: 1090
 draft: false
 ---
 If you have completed all tests in the course and recieved over 70% correct responses, you can make an automated request to recieve a certificate of completion for this course.  
