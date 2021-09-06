@@ -8,25 +8,17 @@ weight: 1004
 - [Prerequisites](#prerequisites)
 - [Course Input & Feedback](#course-input--feedback)
 - [Content Accuracy and Refresh Cycle](#content-accuracy-and-refresh-cycle)
-- [Thank you for participating!](#thank-you-for-participating)
+- [Thank you for participating](#thank-you-for-participating)
 
 ## About this Course
 
-{{< youtube 5ScnewvBayk >}}
+Welcome to the Introduction to the VMware Tanzu Portfolio Course.
 
-This course provides an introduction to the ModernApps Learning community. The community is much more than just content and is really intended to be an active community of professionals learning and working towards applying new skills in cloud native technologies.
+VMware Tanzu is a family of products and services for modernizing your applications and infrastructure with a common goal: deliver better software to production, continuously. The portfolio simplifies multi-cloud operations, while freeing developers to move faster and access the right resources for building and delivering modern applications.
 
-The ModernApps Learning community uses devops tools to deliver all the features provided by the platform to participate in courses, collaboration and other community assets. When you register with the community you fill out an issue ticket. To enroll in a course you will post a new file to the course repository. When you take a test you will modify an existing file in the repository. While registration, enrollment and testing are normal features of Learning Management Systems (LMS), the ModernApps Learning Platform is not an LMS, it is a devops system where each of these features is implemented as a CI/CD workflow using GitHub Actions. This means participating in a course is just like working on a devops project; you will use GitHub messaging to collaborate with peers and open pull requests to edit or post files to a repository to participate in each course.  
+This course provides a high level introduction to the the Tanzu Family of products, the vision for the portfolio, and a brief introduction to each of the products & solutions in the portfolio.
 
-By the time you have taken your first course, you will have learned these core skills which represent the most common and important skills to begin participating and contributing to a modern devops and/or open source projects.  
-
-While participating in a course gets you started on foundational devops skills, the ModernApps Learning Platform provides a unique opportunity for members to learn and practice devops skills in a real production context. Every aspect of the ModernApps Learning Program is managed openly in conjunction with the community. Our vision, goals, roadmap, planning, code, infrastructure etcetera are all managed by and for the community, which is designed with guidelines and guardrails to help participants learn by doing in a step-by-step guided path towards increasing production-grade experience.  
-
-In this course you will learn the foundational skills to participate in ModernApps Learning courses at the 100 level, including how to register with the community, use community collaboration tools, participate in events, enroll in courses, take tests, and request course completion badges.  
-
-If you complete all steps in this course, you can request a certificate of completion by following the instructions provided at the end of the course.  
-
-This course is a community effort, to be able to keep up the material, we really need your help to report issues, suggest improvements, or help with the many volunteer opportunities available to support the community.  
+There are numerous additional courses available in the ModernApps Ninja Course Catalog that provide greater detail and hands-on exercises for Tanzu family products.This course is intended to serve as a pre-requisite and common foundation for other Tanzu Family product courses.  
 
 ## Prerequisites  
 
@@ -44,8 +36,8 @@ The community thanks you for your feedback and contributions!
 
 ## Content Accuracy and Refresh Cycle
 
-We make a strong effort to keep the content in this course as current as possible, however the Tanzu Portfolio is rapidly growing and there may be times where this course may not include the newest updates. Always refer to the official VMware Tanzu Portfiolio Website and your VMware account team for the latest details on products covered in this course. 
+We make a strong effort to keep the content in this course as current as possible, however the Tanzu Portfolio is rapidly growing and there may be times where this course may not include the newest updates. Always refer to the official [VMware Tanzu Portfiolio Website](https://tanzu.vmware.com/) and your VMware account team for the latest details on products covered in this course.
 
-As part of our effort to keep this course as up-to-date as possible, this course is on a continuous update lifecycle. This means that the course can be updated at any time, and new content and requirements may be added while you are taking your course. We will make effort to notify members in advance of any significant updates are made to minimize any unexpected changes to course completion requirements. 
+As part of our effort to keep this course as up-to-date as possible, this course is on a continuous update lifecycle. This means that the course can be updated at any time, and new content and requirements may be added while you are taking your course. We will make effort to notify members in advance of any significant updates are made to minimize any unexpected changes to course completion requirements.
 
-## Thank you for participating!
+## Thank you for participating
