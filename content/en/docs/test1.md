@@ -21,7 +21,7 @@ Please expand the instructions section below to find instructions on how to take
 
 {{< youtube MmZ459hoq3k >}}
 
-This test uses automated grading, you must follow the instructions exactly to ensure automated grading will complete successfully. 
+This test uses automated grading, you must follow the instructions exactly to ensure automated grading will complete successfully.
 
 To complete the test you must review the questions on this page, and fill in your answers on a seperate answer sheet provided below. We recommend opening the answer sheet for the test in a seperate browser tab so you can fill in the answers as you proceed through the questions.
 
@@ -33,7 +33,7 @@ The Answer sheet will open in Github's web-based editor, similar to the image sh
 
 ![Example Test Response Sheet](https://modernapps.ninja/vspheretanzu101_vt7301/admin/assets/images/blank_test_screen_example.png)  
 
-After you fill in your answer sheet, you will submit your responses as a git [pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) following the instructions provided below, which will trigger a workflow that will grade your responses and provide your test grading sheet. 
+After you fill in your answer sheet, you will submit your responses as a git [pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) following the instructions provided below, which will trigger a workflow that will grade your responses and provide your test grading sheet.
 
 ### Additional Test Instruction Reference<!-- omit in toc -->
 
@@ -65,7 +65,6 @@ Answers:
   d: enables development and operations’ teams to work together in new ways that deliver transformative business results
   e: All of the above
 ```
-e
 
 ### **Question2:** The VMware Tanzu Portfolio includes products and services from companies that VMware recently acquired. Which of the following are VMware Acquired companies that are represented in the Tanzu portfolio? <!-- omit in toc -->
 
@@ -80,7 +79,6 @@ Answers:
   e: CloudFoundry
   f: Pivotal
 ```
-b,c,f
 
 ### **Question3:** Which of the following are key benefits of the Tanzu Portfolio: <!-- omit in toc -->
 
@@ -95,7 +93,6 @@ Answers:
   e: The only way to deliver and consume kubernetes on vSphere
   f: Transform Dev and Ops together
 ```
-a,d,f
 
 ### **Question4:** Which of the following are key business outcomes for the Tanzu Portfolio solutions: <!-- omit in toc -->
 
@@ -109,7 +106,6 @@ Answers:
   d: High-performing operations
   e: Empowered Teams
 ```
-a,d,e
 
 ### **Question5:** Which of the following are Products in the Tanzu portfolio? <!-- omit in toc -->
 
@@ -123,7 +119,6 @@ Answers:
   d: Tanzu Mission Control
   e: Tanzu BuildMaster One
 ```
-a,c,d
 
 ### **Question6:** Tanzu Build is focused primarily on ... <!-- omit in toc -->
 
@@ -135,7 +130,6 @@ Answers:
   b: Managing Modern Application Platforms
   c: Providing a ubiquitous Kubernetes runtime
 ```
-a
 
 ### **Question7:** The Cloud Native Buildpacks project was initiated by Pivotal and Heroku in January 2018. The project aims to unify the buildpack ecosystems with a platform-to-buildpack contract that is well-defined and that incorporates learnings from maintaining production-grade buildpacks for years at both Pivotal and Heroku. <!-- omit in toc -->
 
@@ -152,7 +146,6 @@ Answers:
   e: utilizes compatibility guarantees to safely apply patches without rebuilding artifacts and without unintentionally changing application behavior
   f: All of the above
 ```
-f
 
 ### **Question8:** Which of the following are key benefits of the Tanzu Portfolio: <!-- omit in toc -->
 
@@ -167,7 +160,6 @@ Answers:
   e: Edge Computing
   f: VMware Enterprise Cloud Control Fabric
 ```
-a,c,e
 
 ### **Question9:** Select which of the features below is provided by VMware Tanzu Mission Control?<!-- omit in toc -->
 
@@ -182,6 +174,5 @@ Answers:
   e: Data Protection
   f: All of the above
 ```
-a,c,e
 
 #### This concludes Test 1. Please use the navigation bar to proceed to the next page.<!-- omit in toc -->
