@@ -86,7 +86,7 @@ Answers:
 
 ```yml
 Answers:
-  a: Ship great softer faster
+  a: Ship great software faster
   b: Streamline your ITIL implementation
   c: Enable vSphere to deliver native kubernetes capabilities
   d: Simplify multi-cloud operations
